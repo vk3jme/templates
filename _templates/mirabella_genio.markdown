@@ -5,7 +5,7 @@ type: Plug
 standard: anzac
 link: https://www.kmart.com.au/product/mirabella-genio-wi-fi-1-usb-adaptor/2326810
 image: https://user-images.githubusercontent.com/5904370/54647463-dded8900-4aa2-11e9-9b8a-7b9ef4fe2c23.png
-template: '{"NAME":"Genio 1","GPIO":[0,0,56,0,0,0,0,0,21,17,0,0,0],"FLAG":0,"BASE":1}' 
+template: '{"NAME":"Genio 1","GPIO":[0,0,56,0,57,0,0,0,21,17,0,0,0],"FLAG":0,"BASE":1}' 
 link_alt: https://mirabellagenio.net.au/smart-adaptor
 ---
 This is a simple smart plug with the addition of a USB port, as far as I can see the USB port  is 'always on' and is not access this from the ESP module.
