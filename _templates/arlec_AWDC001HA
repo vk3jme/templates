@@ -16,7 +16,7 @@ standard: au
 ## MCU Functions
 
 - `dpid1` Power relay - When toggled will turn fan on / off.
-- `dpid2` Sets the target boil temperature: `0` = Natural, `1` = Sleep Mode, `2` = Manual Mode
+- `dpid2` Sets fan operation mode: `0` = Natural, `1` = Sleep Mode, `2` = Manual Mode
   - Natural Mode: The fan speed varies randomly between (speed 3 to 6), in - the interval of every 15 seconds, 	giving the effect of a natural breeze.
   - Sleep Mode: The fan will operate at speed setting 1
   - Manual Mode: Fan speed is set by dpid3
